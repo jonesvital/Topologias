@@ -1,7 +1,0 @@
-/home/administrador/TCC-Puc/haar_cascade_topology/src/main/java/com/stormadvance/haar_cascade_topology/Topologia.java
-/home/administrador/TCC-Puc/haar_cascade_topology/src/main/java/com/stormadvance/haar_cascade_topology/RecSpout.java
-/home/administrador/TCC-Puc/haar_cascade_topology/src/main/java/com/stormadvance/haar_cascade_topology/HaarBolt.java
-/home/administrador/TCC-Puc/haar_cascade_topology/src/main/java/com/stormadvance/haar_cascade_topology/SendBolt.java
-/home/administrador/TCC-Puc/haar_cascade_topology/src/main/java/com/stormadvance/haar_cascade_topology/PrintBolt.java
-/home/administrador/TCC-Puc/haar_cascade_topology/src/main/java/com/stormadvance/haar_cascade_topology/HistBolt.java
-/home/administrador/TCC-Puc/haar_cascade_topology/src/main/java/com/stormadvance/haar_cascade_topology/CalcCoordsBolt.java
