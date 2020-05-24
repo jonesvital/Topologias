@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.stormadvance</groupId>
-  <artifactId>haar_cascade_topology</artifactId>
+  <artifactId>image_analysis_topology</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
@@ -80,7 +80,7 @@
                  </descriptorRefs>
                  <archive>
                      <manifest>
-                         <mainClass>com.stormadvance.haar_cascade_topology.Topologia</mainClass>
+                         <mainClass>com.stormadvance.image_analysis_topology.Topologia</mainClass>
                      </manifest>
                  </archive>
              </configuration>

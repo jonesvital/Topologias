@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.stormadvance</groupId>
-  <artifactId>kafka-storm-topology</artifactId>
+  <artifactId>coordinate_analysis_topology</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   
@@ -81,7 +81,7 @@
 	                 </descriptorRefs>
 	                 <archive>
 	                     <manifest>
-	                         <mainClass>com.stormadvance.kafka_storm_topology.Topologia</mainClass>
+	                         <mainClass>com.stormadvance.coordinate_analysis_topology.Topologia</mainClass>
 	                     </manifest>
 	                 </archive>
 	             </configuration>
